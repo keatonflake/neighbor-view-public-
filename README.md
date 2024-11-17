@@ -17,7 +17,7 @@
 
 - [Google Maps API Documentation](https://developers.google.com/maps/documentation)
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
-- [Tailwind CSS Documentation](https://nextjs.org/docs)
+- [Next JS Docs](https://nextjs.org/docs)
 
 # Future Work
 
