@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Maple, Freeman 'Autumn Blaze'",
+    "category": "maple",
+    "position": {
+      "lat": 43.82,
+      "lng": -111.79
+    }
+  },
+  {
+    "name": "Maple, Norway",
+    "category": "maple",
+    "position": {
+      "lat": 43.823,
+      "lng": -111.792
+    }
+  },
+  {
+    "name": "Maple, Silver",
+    "category": "maple",
+    "position": {
+      "lat": 43.821,
+      "lng": -111.795
+    }
+  },
+  {
+    "name": "Elm, 'Princeton'",
+    "category": "elm",
+    "position": {
+      "lat": 43.822,
+      "lng": -111.796
+    }
+  },
+  {
+    "name": "Kentucky coffee",
+    "category": "kentucky_coffee",
+    "position": {
+      "lat": 43.8195,
+      "lng": -111.798
+    }
+  },
+  {
+    "name": "Spruce, White",
+    "category": "spruce",
+    "position": {
+      "lat": 43.824,
+      "lng": -111.7895
+    }
+  },
+  {
+    "name": "Hackberry",
+    "category": "hackberry",
+    "position": {
+      "lat": 43.8255,
+      "lng": -111.7905
+    }
+  },
+  {
+    "name": "Oak, Red",
+    "category": "oak",
+    "position": {
+      "lat": 43.826,
+      "lng": -111.7945
+    }
+  },
+  {
+    "name": "Pine, Austrian",
+    "category": "pine",
+    "position": {
+      "lat": 43.8205,
+      "lng": -111.7915
+    }
+  },
+  {
+    "name": "Linden, Littleleaf",
+    "category": "linden",
+    "position": {
+      "lat": 43.8185,
+      "lng": -111.7925
+    }
+  },
+  {
+    "name": "Willow",
+    "category": "willow",
+    "position": {
+      "lat": 43.8215,
+      "lng": -111.797
+    }
+  },
+  {
+    "name": "Walnut, Black",
+    "category": "walnut",
+    "position": {
+      "lat": 43.8245,
+      "lng": -111.7965
+    }
+  },
+  {
+    "name": "Serviceberry",
+    "category": "serviceberry",
+    "position": {
+      "lat": 43.82,
+      "lng": -111.793
+    }
+  },
+  {
+    "name": "Honey Locust",
+    "category": "honey_locust",
+    "position": {
+      "lat": 43.8265,
+      "lng": -111.7955
+    }
+  },
+  {
+    "name": "Ash, Green",
+    "category": "ash",
+    "position": {
+      "lat": 43.825,
+      "lng": -111.791
+    }
+  },
+  {
+    "name": "Birch, White",
+    "category": "birch",
+    "position": {
+      "lat": 43.819,
+      "lng": -111.7985
+    }
+  },
+  {
+    "name": "Ginkgo",
+    "category": "ginkgo",
+    "position": {
+      "lat": 43.8225,
+      "lng": -111.7905
+    }
+  },
+  {
+    "name": "Cherry",
+    "category": "cherry",
+    "position": {
+      "lat": 43.818,
+      "lng": -111.792
+    }
+  },
+  {
+    "name": "Redbud",
+    "category": "redbud",
+    "position": {
+      "lat": 43.821,
+      "lng": -111.794
+    }
+  },
+  {
+    "name": "Buckeye, Yellow",
+    "category": "buckeye",
+    "position": {
+      "lat": 43.825,
+      "lng": -111.797
+    }
+  },
+  {
+    "name": "Spruce, Colorado Blue",
+    "category": "spruce",
+    "position": {
+      "lat": 43.822,
+      "lng": -111.7935
+    }
+  },
+  {
+    "name": "Maple, Norway 'Crimson King'",
+    "category": "maple",
+    "position": {
+      "lat": 43.818,
+      "lng": -111.795
+    }
+  },
+  {
+    "name": "Maple, Freeman 'Celebration'",
+    "category": "maple",
+    "position": {
+      "lat": 43.824,
+      "lng": -111.7905
+    }
+  },
+  {
+    "name": "Apple, Sargents",
+    "category": "apple",
+    "position": {
+      "lat": 43.8205,
+      "lng": -111.796
+    }
+  },
+  {
+    "name": "Maple, Norway",
+    "category": "maple",
+    "position": {
+      "lat": 43.8235,
+      "lng": -111.7945
+    }
+  }
+]

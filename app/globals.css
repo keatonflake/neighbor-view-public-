@@ -1,0 +1,59 @@
+@import "https://necolas.github.io/normalize.css/8.0.1/normalize.css";
+@import url("https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,100..900;1,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  width: 100vw;
+  height: 100vh;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: #222121;
+  color: white;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: "EB Garamond", serif;
+  font-weight: 400;
+}
+
+p,
+div,
+section {
+  font-family: "Overpass", sans-serif;
+  font-weight: 300;
+}
+
+/* label {
+    margin: 1em;
+} */
+
+input {
+  color: black;
+  margin: 1em;
+}
+
+a {
+  color: inherit;
+}
+
+.marker-clustering-tree {
+  font-size: 2rem;
+}
+
+.marker-clustering-control-panel .attribution {
+  font-size: 0.75em;
+}
+
+#pinMessage {
+  color: black;
+}

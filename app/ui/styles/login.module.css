@@ -1,0 +1,23 @@
+.main {
+    gap: 1rem;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 300px;
+}
+
+.form {
+    display: flex;
+    gap: 1rem;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.formError {
+    color: #ffc3c3;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+}
